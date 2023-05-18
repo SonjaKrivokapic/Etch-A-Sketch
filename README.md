@@ -1,13 +1,15 @@
 # Etch-A-Sketch
 
-Outcome
-Used HTML5 semantic elements for better readability and structure.
-Used CSS3 grid and flex to create layout.
-Used Git and GitHub for project management.
-Tried to maintain clean code.
+This project is a browser version of a sketchpad.
 
-What I learned
-Better knowledge of Javascript.
-Improved code structure and code readability.
-Improved clean code writing.
+## Outcome
+* JS - Dynamically created grid of a square divs. 
+* CSS3 - grid and flex to create layout.
+* Git and GitHub - used for project management.
+
+
+## What I learned
+* Improved code structure and code readability.
+* Improved clean code writing.
+* Better understanding of Javascript workflow data.
 
